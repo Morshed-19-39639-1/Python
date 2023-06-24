@@ -20,6 +20,7 @@ elif operator == "//":
    print("The floor value is : ",first // second)# floored value
 elif operator == "%":
    print("The reminder is : ",first % second)
+
 else:
    print("Invalid Operation")
 
