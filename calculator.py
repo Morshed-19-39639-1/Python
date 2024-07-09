@@ -22,7 +22,7 @@ elif operator == "%":
    print("The reminder is : ",first % second)
 
 else:
-   print("Invalid Operation")
+   print(" Entered an invalid Operation")
 
 
 
