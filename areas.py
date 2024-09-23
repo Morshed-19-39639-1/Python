@@ -12,6 +12,7 @@ radius = float(input("Enter Radius in cm : "))
 
 
 
+
 if operator == "Triangle":
     print("The area of Triangle is : ", 0.5 * base * height)
 elif operator == "Rectangle":
